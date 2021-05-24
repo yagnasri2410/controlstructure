@@ -1,0 +1,15 @@
+a=int(input("enter a value"))
+B=int(input("enter b value"))
+Ifa%2==0
+  Print("a is even")
+Else
+  Print("a is odd")
+Ifb%2==0
+  Print("b is even")
+Else
+  Print("b is odd")
+Output:
+Enter a 765486
+b 86547
+a is even 
+b is odd
